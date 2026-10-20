@@ -1,5 +1,5 @@
-url: https://github.com/SereneJi/dsh-usage-stat
-name: SereneJi/dsh-usage-stat
+url: https://github.com/SereneJi/dsh-abacus
+name: SereneJi/dsh-abacus
 category: usage
 description:
   en: Buckets every model call by local date, provider and model, then shows the totals in a sidebar card, a per-chat pill under the composer and a settings page, alongside each provider's account balance and subscription windows.
